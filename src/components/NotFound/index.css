@@ -1,0 +1,25 @@
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 62px;
+}
+
+.not-found-img {
+  height: 280px;
+}
+
+.not-found-head {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  margin-bottom: 16px;
+}
+
+.not-found-para {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+  margin-top: 0px;
+}
